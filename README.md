@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+
+![wnma3mz's github stats](https://github-readme-stats.vercel.app/api?username=wnma3mz&show_icons=true&hide_border=true)
+
+[![HitCount](http://hits.dwyl.com/wnma3mz/wnma3mz.svg)](http://hits.dwyl.com/wnma3mz/wnma3mz)
+
 <!--
 **wnma3mz/wnma3mz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
