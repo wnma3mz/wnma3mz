@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+Thinking from an objective perspective and solving practical problems with coding.
 
 ![wnma3mz's github stats](https://github-readme-stats.vercel.app/api?username=wnma3mz&show_icons=true&hide_border=true)
 
