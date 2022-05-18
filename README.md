@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Thinking from an objective perspective and solving practical problems with coding.
+Do something meaningful.
 
-![wnma3mz's github stats]([https://github-readme-stats.vercel.app/api?username=wnma3mz&show_icons=true&hide_border=true](https://github-readme-stats-ngfvm0qr4-wnma3mz.vercel.app/api?username=wnma3mz&show_icons=true&hide_border=true&theme=prussian)
+![wnma3mz's github stats](https://github-readme-stats-ngfvm0qr4-wnma3mz.vercel.app/api?username=wnma3mz&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 
 <!--
 **wnma3mz/wnma3mz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
